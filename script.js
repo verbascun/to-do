@@ -19,7 +19,8 @@ function loadChecklist() {
                     checkbox.id = item;
 
                     var label = document.createElement('label');
-                    label.textContent = item;
+                    label.textContent = ' ' + item;
+                    label.htmlFor = item
 
                     listItem.appendChild(checkbox);
                     listItem.appendChild(label);

@@ -34,7 +34,11 @@ li {
 input {
     height: 30px;
     width: 30px;
-    margin-right: 15px;
+    /* margin-right: 15px; */
+    /* padding: 30px; */
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;    
 }
 label {
     margin-left: 0;
