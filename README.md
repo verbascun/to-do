@@ -3,7 +3,7 @@
 - Yoga
 - Neti
 - Ziola
-- Kalenistyka
+- Kalestenika
 - Porzadek w pokoju
 - Pisanie
 - Orbitrek + Hiszpanski
